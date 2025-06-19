@@ -1,0 +1,19 @@
+# Core PyTorch and Deep Learning
+torch>=2.0.0
+torch-geometric>=2.3.0
+
+# Scientific Computing and Data Analysis
+numpy>=1.21.0
+matplotlib>=3.5.0
+scikit-learn>=1.1.0
+
+# Optional: For CUDA support (uncomment if using GPU)
+# torch-audio>=2.0.0
+# torch-vision>=0.15.0
+
+# Note: torch-geometric dependencies
+# The following are automatically installed with torch-geometric but listed for clarity:
+# torch-scatter
+# torch-sparse
+# torch-cluster
+# torch-spline-conv
