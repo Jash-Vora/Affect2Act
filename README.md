@@ -445,6 +445,16 @@ The future of AGI isn't just about processing information—it's about processin
 
 ---
 
+## ⭐ Support This Project
+
+If you find this work valuable for AGI research or your own projects, please **give it a star** ⭐! Your support helps:
+- **Increase visibility** for this critical AGI research
+- **Encourage further development** of emotion-aware AI systems
+- **Build a community** around affective computing and AGI
+- **Validate the importance** of emotional intelligence in AI
+
+**🚀 Star this repository if you believe emotions are crucial for AGI!**
+
 ## 📄 License
 
 Apache 2.0 License - Feel free to use, modify, and distribute for research and development purposes.
@@ -454,7 +464,7 @@ Apache 2.0 License - Feel free to use, modify, and distribute for research and d
 For questions, collaborations, or discussions about AGI and emotional intelligence:
 - **Issues**: Use GitHub issues for bug reports and feature requests
 - **Discussions**: Use GitHub discussions for theoretical questions
-- **Research Collaborations**: Contact maintainers directly
+- **Research Collaborations**: Connect with me on LinkedIn (mentioned in my personal readme) for research partnerships and AGI discussions
 
 ---
 
