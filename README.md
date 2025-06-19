@@ -464,7 +464,7 @@ Apache 2.0 License - Feel free to use, modify, and distribute for research and d
 For questions, collaborations, or discussions about AGI and emotional intelligence:
 - **Issues**: Use GitHub issues for bug reports and feature requests
 - **Discussions**: Use GitHub discussions for theoretical questions
-- **Research Collaborations**: Connect with me on LinkedIn (mentioned in my personal readme) for research partnerships and AGI discussions
+- **Research Collaborations**: Connect with me on [LinkedIn](https://www.linkedin.com/in/jash-vora-14b370205/) for research partnerships and AGI discussions
 
 ---
 
